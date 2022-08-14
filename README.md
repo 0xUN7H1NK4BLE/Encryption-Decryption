@@ -2,5 +2,8 @@
 bash script to encrypt and decrypt a message
 
 first you should have four directory name encryption, decryption, file, and keys in same directory.
-chmod +x encryption&decryption
-./encryption&decryption
+
+chmod +x encryption&decryption.sh
+
+./encryption&decryption.sh
+
